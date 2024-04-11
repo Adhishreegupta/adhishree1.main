@@ -17,6 +17,5 @@ void main()
         }
         }
     }
-    str[i]='\0';
     puts(str);
 }
